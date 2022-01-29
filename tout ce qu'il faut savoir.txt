@@ -1,0 +1,34 @@
+print(type(age)) pour ecrire le type de la variable en l'occurence un int
+print(type(nom))
+1.5 -> float
+str(age) convertie le int en str
+int(age) convertie le str en int
+try: Test si le code en lui fonctionne
+except: Si le code ne fonctionne pas execute le code en lui
+else: Sinon execute le code en lui    
+boucle while() = tant que ... / boucle while not  Tant que ... n'est pas ...
+def le_nom_de_ta_fonction permet de definire un fonction
+if:
+elif: elseif
+else:
+for ... in range(..., ...):
+... =	{
+  "...": "...",
+  "...": "...",
+  "...": ... dans les "..." c'est le nom de la variable
+}
+.strip permet d'enlever les espace devant en deriere du string
+.upper permet de mettre tous le string en MAJUSCULE
+.lower permet de mettre tous le string en petite lettre
+.replace(..., ...) remplace le charactere selectionner par un autre charactere 
+txt = "My name is Anthony, and i am {}" {}format
+print(txt.format(age)) print txt et le fomat imprime l'age
+txt = ["apple", "banana", "cherry"] une liste
+print(txt[1]) print le 2 objet de la liste
+.append(...) permet de rajouter qlqchose dans la liste
+.insert(..., ...) permet d'inserer un objet a la place choisis
+len() donne la taille totale du string
+
+
+
+
